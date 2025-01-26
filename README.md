@@ -2,7 +2,9 @@
 
 <!-- Banner -->
 <img alt="Banner" width="100%" src="https://github.com/skavanas/skavanas/blob/main/banner%20(1).png" />
-![Snake animation](https://github.com/skavanas/skavanas/blob/main/snake-animation.svg)
+<p align="center">
+  <img alt="Snake animation" src="https://github.com/skavanas/skavanas/main/snake-animation.svg" />
+</p>
 
 ---
 
