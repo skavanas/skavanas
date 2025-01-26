@@ -4,6 +4,7 @@
 
   <!-- Left Section -->
   <div>
+    <img align="right" alt="Coding" width="500" src="https://github.com/skavanas/skavanas/blob/main/banner%20(1).png" />
     <h3>Connect with me:</h3>
     <p>
       <a href="https://www.linkedin.com/in/anas-ennadif-0268a0246/" target="_blank">
@@ -19,7 +20,7 @@
 
   <!-- Right Section -->
   <div>
-    <img align="right" alt="Coding" width="400" src="https://github.com/skavanas/skavanas/blob/main/banner%20(1).png" />
+    
     <img align="right" alt="Coding GIF" width="300" src="mZ9.gif" />
   </div>
 
