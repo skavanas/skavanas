@@ -1,9 +1,6 @@
 
 <!-- Banner -->
 <img alt="Banner" width="100%" src="https://github.com/skavanas/skavanas/blob/main/banner%20(1).png" />
-<p align="center">
-  <img alt="Snake animation" src="https://github.com/skavanas/skavanas/blob/main/snake-animation.svg" />
-</p>
 
 ### Connect with me:
 <p align="center">
@@ -22,8 +19,7 @@
 </p>
 
 ---
-
-<!-- GIF -->
 <p align="center">
-  <img alt="Coding GIF" width="400" src="mZ9.gif" />
+  <img alt="Snake animation" src="https://github.com/skavanas/skavanas/blob/main/snake-animation.svg" />
 </p>
+
